@@ -6,7 +6,7 @@ const config = {
   modules: {
     core: {
       path: 'core',
-      languages: ['en', 'zh']
+      languages: ['en', 'zh', 'zh-tw']
     },
     common: {
       path: 'common',
